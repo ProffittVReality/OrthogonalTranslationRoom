@@ -1,0 +1,296 @@
+Detected	Gain	Correct Count	Step Size	Subject Number	Height	Age	Sex	RA Name	Other
+True	-0.0001	1	0.05				Male		
+True	9.5E-05	2	0.05				Male		
+True	-8.999999E-05	3	0.05				Male		
+True	8.499999E-05	4	0.05				Male		
+True	-7.999999E-05	5	0.05				Male		
+True	7.499999E-05	6	0.05				Male		
+True	-6.999999E-05	7	0.05				Male		
+True	6.499999E-05	8	0.05				Male		
+True	-5.999999E-05	9	0.05				Male		
+True	5.499999E-05	10	0.05				Male		
+True	-6E-05	1	0.03				Male		
+True	5.7E-05	2	0.03				Male		
+True	-5.400001E-05	3	0.03				Male		
+True	5.100001E-05	4	0.03				Male		
+True	-4.800001E-05	5	0.03				Male		
+True	4.500001E-05	6	0.03				Male		
+True	-4.200001E-05	7	0.03				Male		
+True	3.900001E-05	8	0.03				Male		
+True	-3.600001E-05	9	0.03				Male		
+True	3.300001E-05	10	0.03				Male		
+True	-3.6E-05	1	0.018				Male		
+True	3.42E-05	2	0.018				Male		
+True	-3.24E-05	3	0.018				Male		
+True	3.06E-05	4	0.018				Male		
+True	-2.88E-05	5	0.018				Male		
+True	2.7E-05	6	0.018				Male		
+True	-2.52E-05	7	0.018				Male		
+True	2.34E-05	8	0.018				Male		
+True	-2.16E-05	9	0.018				Male		
+True	1.979999E-05	10	0.018				Male		
+True	-2.16E-05	1	0.0108				Male		
+True	2.052E-05	2	0.0108				Male		
+True	-1.944E-05	3	0.0108				Male		
+True	1.836E-05	4	0.0108				Male		
+True	-1.728E-05	5	0.0108				Male		
+True	1.62E-05	6	0.0108				Male		
+True	-1.512E-05	7	0.0108				Male		
+True	1.404E-05	8	0.0108				Male		
+True	-1.296E-05	9	0.0108				Male		
+True	1.188E-05	10	0.0108				Male		
+True	-1.296E-05	1	0.006480001				Male		
+True	1.2312E-05	2	0.006480001				Male		
+True	-1.1664E-05	3	0.006480001				Male		
+True	1.1016E-05	4	0.006480001				Male		
+True	-1.0368E-05	5	0.006480001				Male		
+True	9.720001E-06	6	0.006480001				Male		
+True	-9.072001E-06	7	0.006480001				Male		
+True	8.424001E-06	8	0.006480001				Male		
+True	-7.776001E-06	9	0.006480001				Male		
+True	7.128001E-06	10	0.006480001				Male		
+True	-7.776001E-06	1	0.003888001				Male		
+True	7.387201E-06	2	0.003888001				Male		
+True	-6.9984E-06	3	0.003888001				Male		
+True	6.6096E-06	4	0.003888001				Male		
+True	-6.2208E-06	5	0.003888001				Male		
+True	5.832E-06	6	0.003888001				Male		
+True	-5.4432E-06	7	0.003888001				Male		
+True	5.0544E-06	8	0.003888001				Male		
+True	-4.6656E-06	9	0.003888001				Male		
+True	4.2768E-06	10	0.003888001				Male		
+True	-4.665601E-06	1	0.002332801				Male		
+True	4.432321E-06	2	0.002332801				Male		
+True	-4.199041E-06	3	0.002332801				Male		
+True	3.965761E-06	4	0.002332801				Male		
+True	-3.732481E-06	5	0.002332801				Male		
+True	3.499201E-06	6	0.002332801				Male		
+True	-3.265921E-06	7	0.002332801				Male		
+True	3.032641E-06	8	0.002332801				Male		
+True	-2.799361E-06	9	0.002332801				Male		
+True	2.566081E-06	10	0.002332801				Male		
+False	-2.799361E-06	0	0.00139968				Male		
+True	2.659393E-06	1	0.00139968				Male		
+False	-2.519424E-06	1	0.00139968				Male		
+True	2.379456E-06	2	0.00139968				Male		
+True	-2.239488E-06	3	0.00139968				Male		
+False	2.09952E-06	3	0.00139968				Male		
+False	-1.959552E-06	3	0.00139968				Male		
+True	1.819584E-06	4	0.00139968				Male		
+True	-1.679616E-06	5	0.00139968				Male		
+True	1.539648E-06	6	0.00139968				Male		
+False	-2.799361E-06	0	0.00139968				Male		
+False	2.659393E-06	0	0.00139968				Male		
+True	-2.519424E-06	1	0.00139968				Male		
+True	2.379456E-06	2	0.00139968				Male		
+False	-2.239488E-06	2	0.00139968				Male		
+False	2.09952E-06	2	0.00139968				Male		
+True	-1.959552E-06	3	0.00139968				Male		
+False	1.819584E-06	3	0.00139968				Male		
+False	-1.679616E-06	3	0.00139968				Male		
+True	1.539648E-06	4	0.00139968				Male		
+True	-2.799361E-06	1	0.00139968				Male		
+False	2.659393E-06	1	0.00139968				Male		
+False	-2.519424E-06	1	0.00139968				Male		
+True	2.379456E-06	2	0.00139968				Male		
+True	-2.239488E-06	3	0.00139968				Male		
+False	2.09952E-06	3	0.00139968				Male		
+True	-1.959552E-06	4	0.00139968				Male		
+True	1.819584E-06	5	0.00139968				Male		
+False	-1.679616E-06	5	0.00139968				Male		
+True	1.539648E-06	6	0.00139968				Male		
+True	-2.799361E-06	1	0.00139968				Male		
+True	2.659393E-06	2	0.00139968				Male		
+True	-2.519424E-06	3	0.00139968				Male		
+False	2.379456E-06	3	0.00139968				Male		
+True	-2.239488E-06	4	0.00139968				Male		
+True	2.09952E-06	5	0.00139968				Male		
+False	-1.959552E-06	5	0.00139968				Male		
+False	1.819584E-06	5	0.00139968				Male		
+True	-1.679616E-06	6	0.00139968				Male		
+False	1.539648E-06	6	0.00139968				Male		
+False	-0.00010000	0	0.05				Male		
+True	0.00009500	1	0.05				Male		
+False	-0.00009000	1	0.05				Male		
+True	0.00008500	2	0.05				Male		
+True	-0.00008000	3	0.05				Male		
+False	0.00007500	3	0.05				Male		
+True	-0.00007000	4	0.05				Male		
+True	0.00006500	5	0.05				Male		
+True	-0.00006000	6	0.05				Male		
+True	0.00005500	7	0.05				Male		
+False	-0.00006000	0	0.03				Male		
+False	0.00005700	0	0.03				Male		
+True	-0.00005400	1	0.03				Male		
+True	0.00005100	2	0.03				Male		
+False	-0.00004800	2	0.03				Male		
+False	0.00004500	2	0.03				Male		
+False	-0.00004200	2	0.03				Male		
+False	0.00003900	2	0.03				Male		
+True	-0.00003600	3	0.03				Male		
+True	0.00003300	4	0.03				Male		
+True	-0.00006000	1	0.03				Male		
+False	0.00005700	1	0.03				Male		
+True	-0.00005400	2	0.03				Male		
+True	0.00005100	3	0.03				Male		
+True	-0.00004800	4	0.03				Male		
+False	0.00004500	4	0.03				Male		
+True	-0.00004200	5	0.03				Male		
+True	0.00003900	6	0.03				Male		
+True	-0.00003600	7	0.03				Male		
+True	0.00003300	8	0.03				Male		
+True	-0.00003600	1	0.018				Male		
+True	0.00003420	2	0.018				Male		
+True	-0.00003240	3	0.018				Male		
+False	0.00003060	3	0.018				Male		
+False	-0.00002880	3	0.018				Male		
+True	0.00002700	4	0.018				Male		
+False	-0.00002520	4	0.018				Male		
+False	0.00002340	4	0.018				Male		
+True	-0.00002160	5	0.018				Male		
+False	0.00001980	5	0.018				Male		
+True	-0.00003600	1	0.018				Male		
+False	0.00003420	1	0.018				Male		
+False	-0.00003240	1	0.018				Male		
+False	0.00003060	1	0.018				Male		
+True	-0.00002880	2	0.018				Male		
+False	0.00002700	2	0.018				Male		
+False	-0.00002520	2	0.018				Male		
+False	0.00002340	2	0.018				Male		
+True	-0.00002160	3	0.018				Male		
+False	0.00001980	3	0.018				Male		
+False	-0.00003600	0	0.018				Male		
+False	0.00003420	0	0.018				Male		
+True	-0.00003240	1	0.018				Male		
+False	0.00003060	1	0.018				Male		
+True	-0.00002880	2	0.018				Male		
+False	0.00002700	2	0.018				Male		
+True	-0.00002520	3	0.018				Male		
+True	0.00002340	4	0.018				Male		
+True	-0.00002160	5	0.018				Male		
+False	0.00001980	5	0.018				Male		
+False	-0.0001000000	0	0.05				Male		
+True	0.0000950000	1	0.05				Male		
+False	-0.0000900000	1	0.05				Male		
+True	0.0000850000	2	0.05				Male		
+False	-0.0000800000	2	0.05				Male		
+True	0.0000750000	3	0.05				Male		
+False	-0.0000700000	3	0.05				Male		
+True	0.0000650000	4	0.05				Male		
+True	-0.0000600000	5	0.05				Male		
+True	0.0000550000	6	0.05				Male		
+True	-0.0001000000	1	0.05				Male		
+True	0.0000950000	2	0.05				Male		
+True	-0.0000900000	3	0.05				Male		
+True	0.0000850000	4	0.05				Male		
+True	-0.0000800000	5	0.05				Male		
+True	0.0000750000	6	0.05				Male		
+True	-0.0000700000	7	0.05				Male		
+True	0.0000650000	8	0.05				Male		
+True	-0.0000600000	9	0.05				Male		
+True	0.0000550000	10	0.05				Male		
+False	-0.0000600000	0	0.03				Male		
+False	0.0000570000	0	0.03				Male		
+True	-0.0000540000	1	0.03				Male		
+False	0.0000510000	1	0.03				Male		
+False	-0.0000480000	1	0.03				Male		
+True	0.0000450000	2	0.03				Male		
+True	-0.0000420000	3	0.03				Male		
+False	0.0000390000	3	0.03				Male		
+True	-0.0000360000	4	0.03				Male		
+False	0.0000330000	4	0.03				Male		
+False	-0.0000600000	0	0.03				Male		
+False	0.0000570000	0	0.03				Male		
+False	-0.0000540000	0	0.03				Male		
+True	0.0000510000	1	0.03				Male		
+False	-0.0000480000	1	0.03				Male		
+True	0.0000450000	2	0.03				Male		
+True	-0.0000420000	3	0.03				Male		
+True	0.0000390000	4	0.03				Male		
+False	-0.0000360000	4	0.03				Male		
+True	0.0000330000	5	0.03				Male		
+False	-0.0000600000	0	0.03				Male		
+True	0.0000570000	1	0.03				Male		
+True	-0.0000540000	2	0.03				Male		
+False	0.0000510000	2	0.03				Male		
+False	-0.0000480000	2	0.03				Male		
+True	0.0000450000	3	0.03				Male		
+False	-0.0000420000	3	0.03				Male		
+False	0.0000390000	3	0.03				Male		
+False	-0.0000360000	3	0.03				Male		
+False	0.0000330000	3	0.03				Male		
+False	0.0001	0	0.05				Male		
+True	-9.5E-05	1	0.05				Male		
+False	8.999999E-05	1	0.05				Male		
+False	-8.499999E-05	1	0.05				Male		
+True	7.999999E-05	2	0.05				Male		
+False	-7.499999E-05	2	0.05				Male		
+False	6.999999E-05	2	0.05				Male		
+False	-6.499999E-05	2	0.05				Male		
+False	5.999999E-05	2	0.05				Male		
+False	-5.499999E-05	2	0.05				Male		
+False	0.0001	0	0.05				Male		
+False	-9.5E-05	0	0.05				Male		
+False	8.999999E-05	0	0.05				Male		
+False	-8.499999E-05	0	0.05				Male		
+True	7.999999E-05	1	0.05				Male		
+False	-7.499999E-05	1	0.05				Male		
+False	6.999999E-05	1	0.05				Male		
+True	-6.499999E-05	2	0.05				Male		
+False	5.999999E-05	2	0.05				Male		
+True	-5.499999E-05	3	0.05				Male		
+True	0.0001	1	0.05				Male		
+False	-9.5E-05	1	0.05				Male		
+True	8.999999E-05	2	0.05				Male		
+False	-8.499999E-05	2	0.05				Male		
+False	7.999999E-05	2	0.05				Male		
+False	-7.499999E-05	2	0.05				Male		
+False	6.999999E-05	2	0.05				Male		
+False	-6.499999E-05	2	0.05				Male		
+False	5.999999E-05	2	0.05				Male		
+False	-5.499999E-05	2	0.05				Male		
+False	0.0001	0	0.05				Male		
+False	-9.5E-05	0	0.05				Male		
+True	8.999999E-05	1	0.05				Male		
+True	-8.499999E-05	2	0.05				Male		
+True	7.999999E-05	3	0.05				Male		
+False	-7.499999E-05	3	0.05				Male		
+False	6.999999E-05	3	0.05				Male		
+False	-6.499999E-05	3	0.05				Male		
+False	5.999999E-05	3	0.05				Male		
+False	-5.499999E-05	3	0.05				Male		
+True	-0.0001	1	0.05	1	1	1	Male	1	1
+True	9.5E-05	2	0.05	1	1	1	Male	1	1
+True	-8.999999E-05	3	0.05	1	1	1	Male	1	1
+False	8.499999E-05	3	0.05	1	1	1	Male	1	1
+False	-7.999999E-05	3	0.05	1	1	1	Male	1	1
+False	7.499999E-05	3	0.05	1	1	1	Male	1	1
+True	-6.999999E-05	4	0.05	1	1	1	Male	1	1
+True	6.499999E-05	5	0.05	1	1	1	Male	1	1
+False	-5.999999E-05	5	0.05	1	1	1	Male	1	1
+True	5.499999E-05	6	0.05	1	1	1	Male	1	1
+False	-0.0001	0	0.05	1	1	1	Male	1	1
+True	9.5E-05	1	0.05	1	1	1	Male	1	1
+False	-8.999999E-05	1	0.05	1	1	1	Male	1	1
+True	8.499999E-05	2	0.05	1	1	1	Male	1	1
+False	-7.999999E-05	2	0.05	1	1	1	Male	1	1
+False	7.499999E-05	2	0.05	1	1	1	Male	1	1
+False	-6.999999E-05	2	0.05	1	1	1	Male	1	1
+False	6.499999E-05	2	0.05	1	1	1	Male	1	1
+False	-5.999999E-05	2	0.05	1	1	1	Male	1	1
+False	5.499999E-05	2	0.05	1	1	1	Male	1	1
+False	-0.0001	0	0.05	1	1	1	Male	1	1
+False	9.5E-05	0	0.05	1	1	1	Male	1	1
+False	-8.999999E-05	0	0.05	1	1	1	Male	1	1
+False	8.499999E-05	0	0.05	1	1	1	Male	1	1
+True	-7.999999E-05	1	0.05	1	1	1	Male	1	1
+True	7.499999E-05	2	0.05	1	1	1	Male	1	1
+False	-6.999999E-05	2	0.05	1	1	1	Male	1	1
+False	6.499999E-05	2	0.05	1	1	1	Male	1	1
+True	-5.999999E-05	3	0.05	1	1	1	Male	1	1
+True	5.499999E-05	4	0.05	1	1	1	Male	1	1
+False	-0.0001	0	0.05	1	1	1	Male	1	1
+False	9.5E-05	0	0.05	1	1	1	Male	1	1
+True	-8.999999E-05	1	0.05	1	1	1	Male	1	1
+False	8.499999E-05	1	0.05	1	1	1	Male	1	1
+True	-7.999999E-05	2	0.05	1	1	1	Male	1	1
