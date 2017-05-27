@@ -67,18 +67,18 @@ public class RotationController : MonoBehaviour
 			return;
 
 		if (selectedRoom == rotatingRoom) {
-            Quaternion deltaRotation = tracker.transform.rotation * Quaternion.Inverse(previousRotation);
+			Quaternion deltaRotation = tracker.transform.rotation * Quaternion.Inverse(previousRotation);
 
-            Vector3 deltaRotationAxis;
-            float angle;
-            deltaRotation.ToAngleAxis(out angle, out deltaRotationAxis);
+			Vector3 deltaRotationAxis;
+			float angle;
+			deltaRotation.ToAngleAxis(out angle, out deltaRotationAxis);
 
 			float rotationSpeed = angle / Time.deltaTime;
 
 			// Translation vector of the room
 			Vector3 translation = initialGain * gainProportion * rotationSpeed * Vector3.Cross(tracker.transform.forward, deltaRotationAxis).normalized;
-            Vector3 translationInGravityAligned = Vector3.Dot(translation, Vector3.up) * Vector3.up;
-            translation -= translationInGravityAligned;
+			Vector3 translationInGravityAligned = Vector3.Dot(translation, Vector3.up) * Vector3.up;
+			translation -= translationInGravityAligned;
 			roomObject.transform.localPosition += translation;
 		}
 
