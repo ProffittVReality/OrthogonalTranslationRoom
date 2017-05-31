@@ -67,19 +67,18 @@ public class RotationController : MonoBehaviour
 			return;
 
 		if (selectedRoom == rotatingRoom) {
-			Vector3 deltaRotation = (tracker.transform.rotation * Quaternion.Inverse(previousRotation)).eulerAngles;
+			Quaternion deltaRotation = tracker.transform.rotation * Quaternion.Inverse(previousRotation);
 
-			if (deltaRotation.y > 180f)
-				deltaRotation.y = (deltaRotation.y - 360f);
+			Vector3 deltaRotationAxis;
+			float angle;
+			deltaRotation.ToAngleAxis(out angle, out deltaRotationAxis);
 
-			float rotationSpeed = deltaRotation.y / Time.deltaTime;
-
-			// Vector that headset is facing towards in X and Z axis
-			Vector3 headsetOrientation = tracker.transform.forward;
-			headsetOrientation.y = 0f;
+			float rotationSpeed = angle / Time.deltaTime;
 
 			// Translation vector of the room
-			Vector3 translation = initialGain * gainProportion * rotationSpeed * Vector3.Cross(Vector3.up, headsetOrientation).normalized;
+			Vector3 translation = initialGain * gainProportion * rotationSpeed * Vector3.Cross(tracker.transform.forward, deltaRotationAxis).normalized;
+			Vector3 translationInGravityAligned = Vector3.Dot(translation, Vector3.up) * Vector3.up;
+			translation -= translationInGravityAligned;
 			roomObject.transform.localPosition += translation;
 		}
 
